@@ -1,27 +1,7 @@
 // GLOBAL VARIABLES
 // add array of words and create alphabet array
 const wordArr = [
-  'Ashtray',
-  'Anomaly',
-  'Almonds',
-  'Ballroom',
-  'Bastard',
-  'Braille',
-  'Citizen',
-  'Chastise',
-  'Colonialism',
-  'Dickbutt',
-  'Doorbell',
-  'Diplomat',
-  'Empire',
-  'Electricity',
-  'Eel',
-  'Frankly',
-  'Focus',
-  'Figment',
-  'Gorilla',
-  'Gentleman',
-  'Gentile',
+
   'Heyheyhey',
 ];
 
