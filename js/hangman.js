@@ -22,6 +22,7 @@ const wordArr = [
   'Gorilla',
   'Gentleman',
   'Gentile',
+  'Heyheyhey'
 ];
 
 let count = 0;
