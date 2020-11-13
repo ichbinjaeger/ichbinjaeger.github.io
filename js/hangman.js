@@ -1,9 +1,6 @@
 // GLOBAL VARIABLES
 // add array of words and create alphabet array
-const wordArr = [
-
-  'Heyheyhey',
-];
+const wordArr = ['Heyheyhey',];
 
 let count = 0;
 const alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('');
