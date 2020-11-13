@@ -1,6 +1,29 @@
 // GLOBAL VARIABLES
 // add array of words and create alphabet array
-const wordArr = ['Heyheyhey',];
+const wordArr = [  
+  'Ashtray',
+  'Anomaly',
+  'Almonds',
+  'Ballroom',
+  'Bastard',
+  'Braille',
+  'Citizen',
+  'Chastise',
+  'Colonialism',
+  'Dickbutt',
+  'Doorbell',
+  'Diplomat',
+  'Empire',
+  'Electricity',
+  'Eel',
+  'Frankly',
+  'Focus',
+  'Figment',
+  'Gorilla',
+  'Gentleman',
+  'Gentile',
+  'Heyheyhey',
+];
 
 let count = 0;
 const alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('');
